@@ -2628,6 +2628,24 @@
     youch "2.2.2"
     youch-terminal "1.1.1"
 
+"@redwoodjs/api-server@^0.35.2":
+  version "0.35.2"
+  resolved "https://a0us.jfrog.io/a0us/api/npm/npm/@redwoodjs/api-server/-/api-server-0.35.2.tgz#a86f328a8ddd316096527bef9dc3ca5277d1793c"
+  integrity sha1-qG8yio3dMWCWUnvvncPKUnfReTw=
+  dependencies:
+    body-parser "1.19.0"
+    chokidar "3.5.2"
+    dotenv-defaults "2.0.2"
+    express "4.17.1"
+    glob "7.1.7"
+    http-proxy-middleware "2.0.1"
+    lodash.escape "4.0.1"
+    morgan "1.10.0"
+    qs "6.9.3"
+    yargs "16.0.3"
+    youch "2.2.2"
+    youch-terminal "1.1.1"
+
 "@redwoodjs/api@0.35.2":
   version "0.35.2"
   resolved "https://registry.yarnpkg.com/@redwoodjs/api/-/api-0.35.2.tgz#87bf4ecf083f895fa01ae9e55c7ab5445333c311"
